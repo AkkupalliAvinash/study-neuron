@@ -17,8 +17,6 @@
 - [API Endpoints](#api-endpoints)
 - [Environment Configuration](#environment-configuration)
 - [Database Schema](#database-schema)
-- [Contributing](#contributing)
-- [License](#license)
 
 ---
 
