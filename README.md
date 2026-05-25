@@ -365,52 +365,11 @@ POST   /api/v1/reach/contact-us            - Submit contact form
 
 ---
 
-## 🤝 Contributing
 
-Contributions are welcome! To contribute:
 
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit changes (`git commit -m 'Add AmazingFeature'`)
-4. Push to branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
 
-### Development Guidelines
-- Follow consistent code style
-- Write meaningful commit messages
-- Test features before submitting PR
-- Update documentation as needed
-- Ensure no console errors or warnings
 
----
 
-## 📄 License
-
-This project is licensed under the **ISC License** - see the LICENSE file for details.
-
----
-
-## 📞 Support & Contact
-
-For questions, suggestions, or issues:
-- Create an issue in the GitHub repository
-- Use the contact form on the platform
-- Reach out through the official channels
-
----
-
-## 🎯 Future Enhancements
-
-- [ ] Live class integration
-- [ ] AI-powered course recommendations
-- [ ] Mobile application
-- [ ] Advanced analytics dashboard
-- [ ] Certification system
-- [ ] Discussion forums
-- [ ] Student mentorship program
-- [ ] API documentation (Swagger)
-
----
 
 
 
